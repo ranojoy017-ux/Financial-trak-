@@ -1,0 +1,6 @@
+{
+  "name": "Finance Tracker",
+  "description": "An AI-powered daily expense tracker that classifies spending dynamically using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
